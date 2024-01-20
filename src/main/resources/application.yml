@@ -1,0 +1,6 @@
+spring:
+  profiles:
+    include:
+      - local
+      - prod
+    active: local
